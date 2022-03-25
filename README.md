@@ -12,4 +12,8 @@ account number of ticket is "serialized"
 
 train security or train personnel use QR code scanner to import the QR code to the handheld device to validate if the fare is paid from the device checking the website of public transportation (with a database lookup) by point of location? depending on if the ticket is daily (disposable) or monthly
 
-19YBeABhyk9tY5z5zGbA3oQLU5MFExpb8o
+
+
+
+
+wherever Bitcoin is accepted deposit here -> 19YBeABhyk9tY5z5zGbA3oQLU5MFExpb8o
