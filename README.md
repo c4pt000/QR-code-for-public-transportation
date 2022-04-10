@@ -1,3 +1,8 @@
+# should be a free city service to strengthen local e-commerce where riders can pay the fare or not
+
+
+# in order to really have every rider pay ........security would have to stay at every platform and check riders as they enter each arriving train with paid tickets right at the doorways of the train that arrives each hour
+
 # QR-code-for-public-transportation
 Apache Light Rail-verify paper ticket printout, by last hour of fare or point of location
 
